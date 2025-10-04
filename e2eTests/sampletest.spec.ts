@@ -5,6 +5,7 @@ test ("launch browser", async ({browser}) =>
     const context = browser.newContext();
     console.log("welcome to automation workd");
     console.log("welcome to playwright test");
+    console.log("welcome to playwright second branch test");
     
 }
 );
