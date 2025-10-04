@@ -9,5 +9,5 @@ class Person {
       return this.name;
     }
   }        
-  const person = new Person("Jane");  
+  const person = new Person("Naidu");  
   console.log(person.getName());
