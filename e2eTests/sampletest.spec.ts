@@ -7,3 +7,7 @@ test ("launch browser", async ({browser}) =>
     
 }
 );
+    console.log("welcome to laywright test");
+    
+}
+)
