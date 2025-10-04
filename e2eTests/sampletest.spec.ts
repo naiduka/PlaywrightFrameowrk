@@ -3,7 +3,11 @@ import { test, expect } from '@playwright/test';
 test ("launch browser", async ({browser}) =>
 {
     const context = browser.newContext();
-    console.log("welcome to laywright test");
+    console.log("welcome to automation workd");
+    console.log("welcome to playwright test");
     
 }
-)
+);
+ 
+    
+
